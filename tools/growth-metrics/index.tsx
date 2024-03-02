@@ -1,8 +1,8 @@
 "use client";
 
-import { Badge } from "@trycreo/ui/dist/components/ui/badge";
-import { BarChart } from "@trycreo/ui/dist/components/ui/bar-chart";
-import { LineChart } from "@trycreo/ui/dist/components/ui/line-chart";
+import { Badge } from "@trycreo/ui/components/badge";
+import { BarChart } from "@trycreo/ui/components/bar-chart";
+import { LineChart } from "@trycreo/ui/components/line-chart";
 import {
   dau,
   funnel,

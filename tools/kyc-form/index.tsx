@@ -1,4 +1,4 @@
-import { Button } from "@trycreo/ui/dist/components/ui/button";
+import { Button } from "@trycreo/ui/components/button";
 import { dummyAction } from "./actions";
 
 import {
@@ -11,7 +11,7 @@ import {
   Textarea,
   DatePicker,
   FileInput,
-} from "@trycreo/ui/dist/components/ui/form/index";
+} from "@trycreo/ui/components/form-abstract";
 
 async function MyForm() {
   return (
